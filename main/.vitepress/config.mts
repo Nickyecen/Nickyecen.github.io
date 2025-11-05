@@ -3,7 +3,18 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Nicolas Ebone Cendron",
-  description: "Get to know me!",
+  description: "Get to know me",
+  locales: {
+    root: {
+      label: 'English',
+      lang: 'en'
+    },
+    pt: {
+      label: 'Português',
+      lang: 'pt',
+      link: '/pt/'
+    }
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -25,6 +36,7 @@ export default defineConfig({
       { icon: 'youtube', link: 'https://www.youtube.com/@nicolasecendron' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/nicolas-ebone-cendron/' },
       { icon: 'instagram', link: 'https://www.instagram.com/nickyecen/' },
-    ]
+    ],
+
   }
 })
