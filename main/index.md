@@ -1,28 +1,23 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
   name: "Nicolas Ebone Cendron"
   text: "Nickyecen"
-  tagline: Get to know me
+  tagline: Meu balde de coisas
   image:
-    src: /res/profile.jpg
-    alt: A picture of me
+    src: profile.jpg
+    alt: Uma foto minha
 
 features:
-  - title: Work
-    details: "\"The object of labor is, therefore, the objectification of man’s species-life: for he duplicates himself not only, as in consciousness, intellectually, but also actively, in reality, and therefore he sees himself in a world that he has created\""
-  - title: History
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Personal
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Textos
+    details: Textos que escrevi e resolvi compartilhar
+    link: /texts/index.md
 ---
 
-## Who am I?
-My name is **Nicolas Ebone Cendron**. I'm a Brazilian Computer Science student at the [Institute of Informatics](inf.ufrgs.br) at [UFRGS](ufrgs.br) and I work as an Embedded Software Engineer for drones at [SkyDrones](skydrones.com.br). Growing up loving math, I found myself on computer science and love working with embedded systems. I'm really proud of how far I've come on those areas. I have past experiences on [Computer Graphics](http://sibgrapi.sid.inpe.br/sid.inpe.br/sibgrapi/2024/04.11.12.50), working on [Cloud Services for Digital Twins](petwin.org) and many other things, some available openly on my [GitHub](github.com/Nickyecen). I'm fluent in Portuguese, English and pretty good at Spanish. I'm really fond of Chinese culture and would like to learn Mandarin and visit China one day.
+## Quem sou eu?
+Meu nome é **Nicolas Ebone Cendron**. Eu sou um Cientista da Computação do [Instituto de Informática](https://inf.ufrgs.br) da [UFRGS](https://ufrgs.br) e trabalho como um Engenheiro de Sistemas Embarcados para drones na [SkyDrones](https://skydrones.com.br). Eu cresci amando matemática, me encontrei na ciência da computação e adoro trabalhar com sistemas embarcados. Eu tenho muito orgulho de quão longe cheguei nessas áreas. Eu tenho experiência em [Computação Gráfica](http://sibgrapi.sid.inpe.br/sid.inpe.br/sibgrapi/2024/04.11.12.50), trabalhando em [Serviços de Nuvem para Gêmeos Digitais](https://petwin.org) e muitas outras coisas, algumas disponíveis abertamente no meu [GitHub](https://github.com/Nickyecen). Eu sou fluente em português, inglês e bom em espanhol. Eu tenho muito interesse na cultura chinesa e gostaria de aprender mandarim e visitar a China algum dia.
 
-I'm a 20 years old white cis straight male. I was born in Passo Fundo, Rio Grande do Sul, Brazil, in a middle class family. I studied in a private school, Notre Dame, from 1st to 9th grade and then went to a public military school, Colégio Tiradentes da Brigada Militar de Passo Fundo, from 10th to 12th grade. Right after finishing school, I went to the capital city of Rio Grande do Sul, Porto Alegre, to pursue Computer Science. Today I live by myself, working and studying.
+Eu sou um homem branco cis hétero de 20 anos. Nasci em Passo Fundo, Rio Grande do Sul, numa família de classe média. Estudei em uma escola particular, Notre Dame, nos 9 anos do fundamental, então fui para um colégio militar público, Colégio Tiradentes da Brigada Militar de Passo Fundo, onde cursei o ensino médio. Logo depois de terminar o colégio, fui para Porto Alegre cursar Ciência da Computação. Hoje moro sozinho, trabalhando e estudando.
 
-I've made this website for me, to help myself understand what I do, what I've done, and who I am. For this, I decided to use no AI on the making of this website, for though I may not know who I am, I'm not an AI. So really, for me, the answer of who I am was lost, and this is an attempt to find it back.
-
+Eu fiz esse site para mim, para compartilhar o que eu faço, fiz e quem sou. Por isso, decidi não utilizar nada de IA no desenvolvimento do site; pois embora eu possa não saber bem quem sou, não sou uma IA.

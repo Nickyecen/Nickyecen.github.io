@@ -3,30 +3,20 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Nicolas Ebone Cendron",
-  description: "Get to know me",
-  locales: {
-    root: {
-      label: 'English',
-      lang: 'en'
-    },
-    pt: {
-      label: 'Português',
-      lang: 'pt',
-      link: '/pt/'
-    }
-  },
+  description: "Meu balde de coisas",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Textos', link: '/texts/' },
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Textos',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Introdução', link: '/texts/index.md' },
+          { text: 'A menina do ônibus', link: '/texts/a-menina-do-onibus.md' }
         ]
       }
     ],
