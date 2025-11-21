@@ -15,3 +15,7 @@ Levanto para descer adiantado, ela ainda lendo. - Que livro é esse? - Ela me ol
 Com o pouco de voz que tinham, as cinco páginas que faltavam viraram duas e meia. O ônibus dobra me dizendo que está quase na minha parada. Eu guardo o livro e olho para o lado, para ver se levanto para descer adiantado, mas ela já não está mais lá. Passou do meu lado para sair, eu nem vi. Dormi no ponto. Perdi a fatia me babando com o cheiro do sucesso.
 
 Agora levanto e desço sozinho, remoendo o meu próprio tempo que perdi, que não emprestei a ela. Não vá embora não, menina do ônibus! Pois agora te guardo aqui comigo.
+
+::: info Autor
+Nicolas Ebone Cendron - 19 de novembro de 2025
+:::

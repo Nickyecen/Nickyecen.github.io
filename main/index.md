@@ -13,6 +13,9 @@ features:
   - title: Textos
     details: Textos que escrevi e resolvi compartilhar
     link: /texts/index.md
+  - title: Poemas
+    details: Poemas que escrevi e resolvi compartilhar
+    link: /poems/index.md
 ---
 
 ## Quem sou eu?
