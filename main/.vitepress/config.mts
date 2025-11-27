@@ -16,7 +16,8 @@ export default defineConfig({
         text: 'Textos',
         items: [
           { text: 'Introdução', link: '/texts/' },
-          { text: 'A menina do ônibus', link: '/texts/a-menina-do-onibus.md' }
+          { text: 'A menina do ônibus', link: '/texts/a-menina-do-onibus.md' },
+          { text: 'E um e dois e três', link: '/texts/e-um-e-dois-e-tres.md' },
         ]
       },
       {
